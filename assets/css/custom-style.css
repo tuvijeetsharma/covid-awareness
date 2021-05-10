@@ -1,0 +1,57 @@
+.dark-bg-custom{
+    background-color: #1d2124;
+}
+
+.jumbotron-light-cyan{
+    background-color: #7cd0d3;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: 0.3rem;
+}
+
+.jumbotron-light-green{
+    background-color: #7cd38f;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: 0.3rem;
+}
+
+.jumbotron-pink{
+    background-color: #d37c99;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: 0.3rem;
+}
+
+.jumbotron-yellow{
+    background-color: #d3d17c;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: 0.3rem;
+}
+
+.jumbotron-light-blue{
+    background-color: #38a3d4;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: 0.3rem;
+}
+
+.jumbotron-img-align{
+    padding: 1rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: 1rem;
+    width: 100%;
+    height: auto;
+}
+
+.nav-link-covid {
+    display: block;
+    padding: 0.5rem 0rem;
+    color:#c54545 !important;
+}
+
+.headings {
+    padding: 1rem 1rem;
+    color: white;
+}
